@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question time ="10" point = "5">
+    <text>Как правильно закончить пословицу: «Не откладывай на завтра то, что можно…»?</text>
+    <variants>
+      <variant right="true">сделать сегодня</variant>
+      <variant>не делать</variant>
+      <variant>делегировать</variant>
+      <variant>забыть</variant>
+    </variants>
+  </question>
+  <question time ="10" point = "5">
+    <text>Что говорит человек, когда замечает нечто необычное?</text>
+    <variants>
+      <variant>попало в лоб</variant>
+      <variant>залетело в рот</variant>
+      <variant>накапало в уши</variant>
+      <variant right="true">бросилось в глаза</variant>
+    </variants>
+  </question>
+  <question time ="10" point = "5">
+    <text>Что помогает туристу ориентироваться в незнакомом городе?</text>
+    <variants>
+      <variant>путепровод</variant>
+      <variant right="true">путеводитель</variant>
+      <variant>путеукладчик</variant>
+      <variant>путеводитель</variant>
+    </variants>
+  </question>
+  <question time ="20" point = "15">
+    <text>Как звали старшую сестру императора Петра Первого?</text>
+    <variants>
+      <variant>Вера</variant>
+      <variant right="true">Софья</variant>
+      <variant>Любовь</variant>
+      <variant>Надежда</variant>
+    </variants>
+  </question>
+  <question time ="20" point = "15">
+    <text>В какой стране появилась мандолина?</text>
+    <variants>
+      <variant>Испания</variant>
+      <variant right="true">Италия</variant>
+      <variant>Венгрия</variant>
+      <variant>Греция</variant>
+    </variants>
+  </question>
+  <question time ="20" point = "15">
+    <text>Какой врач первым в истории русской медицины применил гипсовую повязку?</text>
+    <variants>
+      <variant>Субботин</variant>
+      <variant right="true">Пирогов</variant>
+      <variant>Боткин</variant>
+      <variant>Склифосовский</variant>
+    </variants>
+  </question>
+</questions>
